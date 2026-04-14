@@ -3,4 +3,11 @@
 **Ticketmaster API**
 - Ticketmaster
 - MapBox
-dvhvgdakhbdjjlsfsvj
+
+**Calendar**
+- Calendar
+- Dedline API (Voter Deadline)
+
+**Weather _(Last Resort...PLEASE)_**
+- Open-Meteo
+- SOMETHING ELSE
